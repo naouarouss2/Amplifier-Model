@@ -17,13 +17,21 @@ When I showed him a project I made before, using laser-cut and engraved MDF wood
 ## CAD
 Really just the top plate.
 
+<img width="1109" height="733" alt="Screenshot 2026-01-21 161825" src="https://github.com/user-attachments/assets/90bca26d-ff9b-4204-a698-c46006fe37b7" />
+<img width="1124" height="742" alt="Screenshot 2026-02-16 215125" src="https://github.com/user-attachments/assets/59ef2fa4-ccbe-4f0c-8ec7-9d796b53737c" />
+
 ## Wiring diagram 🔌
 It is pretty self explanatory on the top face with the symbols.
 
 But here is the diagram for the amplifier IC.
 
+<img width="924" height="712" alt="image" src="https://github.com/user-attachments/assets/a3820a6f-4194-4ce7-b1af-bd89ea9ac1c4" />
+
 The top power terminals are left unconnected. They are just there to position the power inputs directly on the model, instead of pulling a lot of wires directly from the PSU.
 ## Finished product 💎
+
+![20260129_114548](https://github.com/user-attachments/assets/e362f5b4-b9fc-414f-8782-dc74b9f7085e)
+![20260129_114559 (2)](https://github.com/user-attachments/assets/4f6aca99-1044-4be0-a48b-236a4565e0be)
 
 ## License 🔓
 This project is put opensource.
