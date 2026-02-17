@@ -2,14 +2,14 @@
 ## What is it ? 📔
 This is a model used to teach students about the working principle of a integrated linear amplifier.
 ## Features ✅
--  3 1KOhm resistors
--  2 2KOhm resistors
--  1 3KOhm resistor
--  2 5KOhm resistors
--  2 10KOhm resistors.
--  2 100 nF non-polarized capacitors
--  10K Potentiometer
--  TL081 Amplifier IC
+-  **3 1KOhm resistors**
+-  **2 2KOhm resistors**
+-  **1 3KOhm resistor**
+-  **2 5KOhm resistors**
+-  **2 10KOhm resistors.**
+-  **2 100 nF non-polarized capacitors**
+-  **10K Potentiometer**
+-  **TL081 Amplifier IC**
 ## Why did I make it ? 🛠️
 My electrical engineering teacher had some models provided by the ministry of education. But they had tiny 2mm banana terminals, and were very ugly-looking with a low quality PCB on top, mounted on a cheap electrical box.
 
@@ -42,10 +42,11 @@ Remixing is also allowed, as long as the original project is linked and credited
 ## Credits ❤️
 Made by **Oussama NAOUAR**
 
-Total logged working time : ~26.4hrs
+Total logged working time : **~26.4hrs**
 
-Made for Ariana's Pioneer High School (LPA).
+Made for **Ariana's Pioneer High School (LPA).**
 ## BOM 💵
+Prices shown below are **converted from TND to USD** according to the conversion rates on 03/Feb/2026
 |Component Name                    |Description                                   |Link                                                                                    |Unit Price|Product Amount|Total Price|
 |----------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------|----------|--------------|-----------|
 |Blue 4mm Banana Secure Terminals  |4mm diameter banana terminal                  |https://www.celectronix.com/banane/962-fiche-banane-femelle-4mm-bleu-avec-securit-.html |0,52      |22            |11,44      |
